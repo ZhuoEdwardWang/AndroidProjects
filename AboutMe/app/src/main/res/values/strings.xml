@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="name">Edward Wang</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum odio magna, non malesuada metus dapibus id. Aliquam vitae enim risus. Morbi placerat, magna vel ullamcorper posuere, sapien nisl rhoncus sapien, id vulputate sem purus euismod eros. Quisque dignissim, magna quis sollicitudin tempor, est mauris commodo felis, quis facilisis odio sapien eget massa. Donec ullamcorper enim at sapien vehicula hendrerit et in ex. Duis vel ex sed lectus faucibus congue id ac dolor. In hac habitasse platea dictumst. Sed commodo, arcu non volutpat interdum, justo ipsum mattis nisl, a condimentum tortor lectus quis sem. Ut in erat eu nulla malesuada varius.
+
+Quisque ut libero iaculis, consectetur nisi at, egestas nisl. Vivamus viverra magna quis pretium accumsan. Donec ac sagittis est. Maecenas volutpat pharetra mi, in vestibulum sapien commodo vel. Nam a ante nisl. Donec ut ultrices mi. Quisque at congue sapien. Maecenas sodales, nunc at semper interdum, dolor augue rhoncus leo, quis condimentum sapien erat sed enim.
+
+Etiam id tempor quam, vitae congue neque. Maecenas tempor magna justo, eu molestie leo dignissim eget. Duis eget posuere velit. Aenean et tempor lectus. Proin aliquam, dui quis sodales volutpat, lacus mi sagittis justo, id gravida dolor risus vel ligula. Vestibulum aliquam urna id rhoncus suscipit. Quisque a mauris ullamcorper elit ultrices molestie. Nunc at ante a lectus gravida dignissim.
+
+Donec viverra pharetra magna et commodo. Aenean pulvinar urna leo, in fermentum purus mattis sit amet. In hac habitasse platea dictumst. Etiam maximus consequat pellentesque. Vestibulum malesuada dignissim arcu id dictum. Proin posuere ante ut tellus facilisis, sed ultrices neque pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at justo laoreet, semper purus nec, varius tellus. Phasellus sit amet gravida purus. Sed vehicula ultrices tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed libero ipsum, vehicula fringilla ornare sed, commodo ac tortor. Nullam non lorem cursus diam sagittis vulputate quis vel quam. Pellentesque feugiat urna vel libero elementum eleifend.
+
+Aliquam ultricies blandit. In leo dolor, finibus sodales lacinia eu, faucibus in odio. Pellentesque a suscipit massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque nec dolor at tortor vulputate gravida eu eget eros. Nullam auctor ante pellentesque, tincidunt nibh in, volutpat quam. Integer blandit augue non mi interdum, nec malesuada lectus mattis. Etiam ac ipsum venenatis, aliquam leo vitae, ultrices dui. Aliquam erat volutpat. Nulla non est dolor.</string>
+    <string name="whats_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
